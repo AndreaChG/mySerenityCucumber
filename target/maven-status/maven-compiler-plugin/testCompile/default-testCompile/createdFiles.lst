@@ -1,0 +1,4 @@
+com\everis\DefinitionTestSuite.class
+com\everis\pages\DictionaryPage.class
+com\everis\steps\serenity\EndUserSteps.class
+com\everis\steps\DefinitionSteps.class
