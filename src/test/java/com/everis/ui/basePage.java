@@ -1,4 +1,4 @@
-package com.everis.pages;
+package com.everis.ui;
 
 import org.openqa.selenium.WebDriver;
 

@@ -1,10 +1,9 @@
-Feature: In order to buy licenses
-	As a customer
-	I need to create an account
+Feature: Dado que quiero ir de cazeria
+	Como un cazador
+	Yo necesito registarme oficialmente
 
-Scenario: Sign up as a new customer
-Given the customer is in the nevada home page
-When the customer clicks on sign up
-And the customer validates his information
-Then the customer should be able to fill his information
-And the customer should be able to create a new account
+Scenario: Registrar un cazador nuevo
+Given el cazador desea registrarse en Nevada
+When confirme que no tiene un registro previamente creado
+And llena el formulario de registro
+Then el podra registrarse oficialmente en Nevada
